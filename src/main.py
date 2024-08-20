@@ -1,8 +1,10 @@
 import schedule
 import time
 
+
 def hello_world():
     print("Hello, world!")
+
 
 if __name__ == "__main__":
     # Schedule the hello_world function to run every 10 seconds
